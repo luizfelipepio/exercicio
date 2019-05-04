@@ -4,4 +4,10 @@ mikdir pio (criar pasta "pio")
 cd pio (entrar na pasta "pio")
 git config --global user.name "luizfelipepio"(colocar o nome )
 git config --global user.email "luizfelipemedeirospio@gmail.com" (colocar o email)
+touch relatorio.txt ( criar um arquivo)
+vi relatorio.txt (editar o arquivo "relatorio.txt")
+git init (inicializar um repositorio)
+git add relatorio.txt (adicionar arquivo no repositorio)
+git add exercicio1.HTML(adicionar um arquivo no repositorio)
+
 
