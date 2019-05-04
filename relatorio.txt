@@ -1,0 +1,7 @@
+aluno 1
+
+mikdir pio (criar pasta "pio")
+cd pio (entrar na pasta "pio")
+git config --global user.name "luizfelipepio"(colocar o nome )
+git config --global user.email "luizfelipemedeirospio@gmail.com" (colocar o email)
+
