@@ -1,6 +1,6 @@
 aluno 1
 
-mikdir pio (criar pasta "pio")
+mkdir pio (criar pasta "pio")
 cd pio (entrar na pasta "pio")
 git config --global user.name "luizfelipepio"(colocar o nome )
 git config --global user.email "luizfelipemedeirospio@gmail.com" (colocar o email)
@@ -9,5 +9,22 @@ vi relatorio.txt (editar o arquivo "relatorio.txt")
 git init (inicializar um repositorio)
 git add relatorio.txt (adicionar arquivo no repositorio)
 git add exercicio1.HTML(adicionar um arquivo no repositorio)
+git commit -m "mandar pro git" (comitar o repositorio)
+git push origin master (mandar pro git hub)
+
+SEGUNDA PARTE
+
+mkdir pio2 (criar pasta "pio2")
+cd pio2 (entrar na pasta "pio2")
+git config --global user.name "luizfelipepio"(colocar o nome )
+git config --global user.email "luizfelipemedeirospio@gmail.com" (colocar o email)
+git clone https://github.com/fernandoaccorsi/exercicio.git ( clonar o repositorio do meu amigaozao)
+vi exercicio2.html (modificar o site do meu amigaozao)
+git add exercicio2.html (adicionar o arquivo no repositorio)
+git commit-m "mudança no site" (comitar o repositorio)
+git push origin master (devolver o repositorio para o git hub do amigo)
 
 
+ALTERAÇÕES FEITAS PELO PARCEIRO NO MEU SITE
+
+ele utilizou os codigos <b></b>,<ins></ins>,<mark></mark> e <i></i>, para realizar mudancas na formataçaõ do site, colocando negrito, italico, sublinhado e um tipo de marcaçao nas palavras.
